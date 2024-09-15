@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GameBlitz24/static/css/main.773326b3.css",
+    "main.js": "/GameBlitz24/static/js/main.184c0e58.js",
+    "index.html": "/GameBlitz24/index.html",
+    "main.773326b3.css.map": "/GameBlitz24/static/css/main.773326b3.css.map",
+    "main.184c0e58.js.map": "/GameBlitz24/static/js/main.184c0e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773326b3.css",
+    "static/js/main.184c0e58.js"
+  ]
+}
