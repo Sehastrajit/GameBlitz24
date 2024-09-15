@@ -15,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Use the latest Node.js version
+          node-version: '20'  
 
       - name: Install dependencies
         run: npm install
@@ -31,4 +31,4 @@ jobs:
       - name: Deploy
         run: npm run deploy
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure this secret is set in your repo settings
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
